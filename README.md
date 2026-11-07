@@ -33,6 +33,30 @@ These are made-up businesses, not client work, and I built them with AI coding t
       Property listings app with sample homes · Next.js
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://book.ibaocchristian.com"><img src="assets/suklay.png" alt="Suklay at Gunting, a concept barbershop booking app, shown on desktop and phone"></a><br>
+      <b><a href="https://book.ibaocchristian.com">Suklay at Gunting</a></b><br>
+      Barbershop and salon booking app · Next.js
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://admin.ibaocchristian.com"><img src="assets/banlaw.png" alt="Banlaw, a concept admin dashboard for a laundry with sample data, shown on desktop and phone"></a><br>
+      <b><a href="https://admin.ibaocchristian.com">Banlaw</a></b><br>
+      Laundry back-office dashboard with sample data · Next.js
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://clinic.ibaocchristian.com"><img src="assets/palmful.png" alt="Palmful, a concept family clinic website, shown on desktop and phone"></a><br>
+      <b><a href="https://clinic.ibaocchristian.com">Palmful</a></b><br>
+      Family clinic site with an appointment request · Astro
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://magazine.ibaocchristian.com"><img src="assets/lantsa.png" alt="Lantsa, a concept slow-travel magazine, shown on desktop and phone"></a><br>
+      <b><a href="https://magazine.ibaocchristian.com">Lantsa</a></b><br>
+      Slow-travel magazine on a custom theme · WordPress
+    </td>
+  </tr>
 </table>
 
 ### How I work
